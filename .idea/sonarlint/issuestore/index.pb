@@ -5,10 +5,6 @@ Z
 *src/be/intecbrussel/sellers/PriceList.java,e/6/e69ee0ffc837abad9db1144f831a43c01564f345
 V
 &src/be/intecbrussel/eatables/Cone.java,c/8/c865a768ce78adc8d573fb5dcbcfeeebfe462b5c
-X
-(src/be/intecbrussel/eatables/Flavor.java,c/e/ce601448cd663a2bebac8828ade921ffcf276ddd
-\
-,src/be/intecbrussel/eatables/MagnumType.java,7/3/731cce47fc25e28d34268b9d8eb186ceefb58e97
 Y
 )src/be/intecbrussel/eatables/Eatable.java,3/2/328e3a7d7ed1431e1b1c5820b53b5b9e12b56555
 X
@@ -29,5 +25,3 @@ _
 /src/be/intecbrussel/sellers/IceCreamSeller.java,f/a/fa46aaa75bd90febb0aa08cdb5cf698379292aee
 d
 4src/be/intecbrussel/sellers/OutOfStockException.java,e/a/ea7c3bd4144d7038698725d707e5e895699b874a
-b
-2src/be/intecbrussel/application/IceCreamAppV3.java,0/2/020c205f6fb7b9dfd5474980d7a1ebf0f67b3497

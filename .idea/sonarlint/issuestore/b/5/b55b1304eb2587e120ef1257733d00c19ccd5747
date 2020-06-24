@@ -1,9 +1,5 @@
 
-Q
-java:S1128"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜8ıÍ½£«.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(Õ÷õúÿÿÿÿ8‚£º£«.
-Z	java:S106$"9Replace this use of System.out or System.err by a logger.(Õ÷õúÿÿÿÿ8ª‚µ£«.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ó¼‚8‚£º£«.
-O
-java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8«Ó¿£«.
-Z	java:S106%"9Replace this use of System.out or System.err by a logger.(È¾ß±ÿÿÿÿÿ8Ç˜¡£«.
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(Õ÷õúÿÿÿÿ8ª‚µ£«.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(È¾ß±ÿÿÿÿÿ8Ç˜¡£«.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ó¼‚8‚£º£«.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Õ÷õúÿÿÿÿ8‚£º£«.
