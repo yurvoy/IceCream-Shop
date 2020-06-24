@@ -36,7 +36,7 @@ public class IceCreamSalon implements IceCreamSeller {
     @Override
     public Magnum orderMagnum(Magnum.MagnumType type) {
         totalProfit += priceList.getMagnumPrice(type);
-        return new Magnum();
+        return new Magnum(type);
     }
 
     @Override

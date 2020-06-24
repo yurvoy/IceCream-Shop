@@ -66,7 +66,7 @@ public class IceCreamCar implements IceCreamSeller {
     @Override
     public Magnum orderMagnum(Magnum.MagnumType type) throws OutOfStockException {
         prepareMagnum(type);
-        return new Magnum();
+        return new Magnum(type);
     }
 
     private Magnum prepareMagnum(Magnum.MagnumType type) throws OutOfStockException {
@@ -76,7 +76,7 @@ public class IceCreamCar implements IceCreamSeller {
             profit += priceList.getMagnumStandardPrice();
             stock.setMagni(stock.getMagni() - 1);
         }
-        return new Magnum();
+        return new Magnum(type);
     }
 
 

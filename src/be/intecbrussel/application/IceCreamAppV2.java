@@ -5,7 +5,7 @@ import be.intecbrussel.sellers.*;
 
 public class IceCreamAppV2 {
 
-    public static void main(String[] args) throws OutOfStockException {
+    public static void main(String[] args) {
 
         //New Price List
         PriceList priceList = new PriceList(2, 2.5, 3);
@@ -34,8 +34,8 @@ public class IceCreamAppV2 {
             };
 
             //Eating
-            for (int i = 0; i < order2.length; i++) {
-                order2[i].eat();
+            for (Eatable eatable : order2) {
+                eatable.eat();
             }
 
             //Ice cream Salon profit
